@@ -1,5 +1,5 @@
 import { StyleSheet, View } from 'react-native';
-import RestaurantList from './components/RestaurantList';
+import RestaurantList from './components/RestaurantList.jsx';
 
 export default function App() {
   return (
